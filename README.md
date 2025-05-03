@@ -2,7 +2,7 @@
 
 This project is a **dynamic Excel dashboard** built to visualize and analyze sales data from a coffee shop. It provides actionable insights into sales performance, customer behavior, and product trends using interactive charts and KPIs.
 
-![Dashboard Preview](c824843f-4cef-4393-9065-620276ae3546.png)
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/ef409443-7299-453c-92d1-48e9ce913c91" />
 
 ---
 
