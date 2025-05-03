@@ -61,13 +61,12 @@ This Excel dashboard can be used to:
 
 ## 📸 Screenshot
 
-*(Already embedded above — replace the filename if needed)*
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/f8908a5e-7790-44b8-a2dc-ae20c45d56da" />
+
 
 ---
 
 ## 📫 Contact
-
-If you'd like to connect or discuss this project:
 
 - 📧 [YourEmail@example.com]
 - 💼 [LinkedIn Profile Link]
